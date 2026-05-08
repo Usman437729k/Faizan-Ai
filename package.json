@@ -52,7 +52,7 @@
     "crypto-digest-sync": "^1.0.0",
     "crypto-js": "^4.2.0",
     "human-readable": "^0.2.1",
-    "jimp": "^0.22.12",
+    "jimp": "^1.6.1",
     "libphonenumber-js": "^1.11.18",
     "libsignal": "^2.0.1",
     "node-cache": "^5.1.2",
